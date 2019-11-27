@@ -59,7 +59,3 @@ To run, execute the following:
 python3 problem3.py input3.csv output3.csv
 ```
 
-# Visualization
-
- To visualize the result of each case of classification method, you can use matplotlib to output an image containing the data points and boundaries of each method.
- 
